@@ -1,0 +1,13 @@
+{
+    "slug": "formacion-academica",
+    "title": "Formación Académica",
+    "description": "Formación académica, grado académico e institución donde estudie",
+    "items": [
+        {
+            "name": "Universidad Autónoma de Yucatán",
+            "degree": "Licenciatura en Ciencias de la Computación"
+        }
+    ]
+
+
+}

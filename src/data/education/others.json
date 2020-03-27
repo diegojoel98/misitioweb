@@ -1,0 +1,28 @@
+{
+    "slug": "otros-cursos",
+    "title": "Otras actividades académicas",
+    "description": "Otras actividades educativas en las que he participado",
+    "items": [
+        {
+            "name": "Gestión de Dispositivos de TI",
+            "degree": "Constancia Finalización con méritos",
+            "date": "2019"
+        },
+        {
+            "name": "Participante Plática 'Internet de las Cosas'",
+            "degree": "Constancia Participación",
+            "date": "Septiembre 2019, 2 horas" 
+        },
+        {
+            "name": "Divulgador en Festival Matemático - CIMAT Mérida",
+            "degree": "Constancia Participación",
+            "date": "Mayo 2019, 8 horas" 
+        },
+        {
+            "name": "Divulgador de las Matemáticas - Curso de Verano CIMAT Mérida",
+            "degree": "Constancia Participación",
+            "date": "Agosto 2019" 
+        }
+    ]
+
+}

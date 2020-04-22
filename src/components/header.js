@@ -11,7 +11,7 @@ export default () => (
                 <h1 className="font-bold text-green-900 text-5xl">Hola, soy Diego!</h1>
                 <p className="text-xl font-ligth">Desarrollo web</p>
             </div>
-            <img src={ilustration} alt="Hombre observando una página web" style={{width: "320px"}}></img>
+            <img src={ilustration} alt="Hombre observando una página web" style={{width: "200px"}}></img>
             </div>
 
             <div>
